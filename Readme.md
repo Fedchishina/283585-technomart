@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Виктория Федчишина](https://up.htmlacademy.ru/htmlcss/15/user/283585).
-* Наставник: `Николай Маркелов`.
+* Наставник: [Николай Маркелов](https://htmlacademy.ru/profile/nicolamarkelov).
 
 ---
 
